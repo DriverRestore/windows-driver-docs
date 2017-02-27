@@ -6,7 +6,7 @@ Welcome to the Windows driver docs repository, housing the source for the offici
 
 We actively merge contributions into this repository via [pull request](https://help.github.com/articles/using-pull-requests/) into the *staging* branch (for the public repo) or the *master* branch (for the private repo). 
 
-For more information on contributing, read our [contributions guide](CONTRIBUTING.md).
+For more information on contributing, read our [contributions guide](CONTRIBUTING.md). https://github.com/DriverRestore/update-windows-drivers
 
 ## Microsoft Code of Conduct
 
